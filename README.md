@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kpbinduprakasha-cpu&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kpbinduprakasha-cpu&theme=default&timezone=Asia/Kolkata" alt="GitHub Streak" />
 </p>
