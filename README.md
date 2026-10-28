@@ -1,4 +1,4 @@
-## Hi,👋 I,am K P Bindu Prakasha
+## I,am K P Bindu Prakasha
 ### 📊 GitHub Stats:
 
 <p align="center">
