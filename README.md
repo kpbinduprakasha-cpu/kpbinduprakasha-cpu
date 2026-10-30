@@ -1,4 +1,4 @@
-## MY name K P Bindu Prakasha
+## MY name is K P Bindu Prakasha
 ### 📊 GitHub Stats:
 
 <p align="center">
